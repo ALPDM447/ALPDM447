@@ -11,15 +11,16 @@
 </p>
 
 ---
-
 ### 🚀 About Me
 
-I am a software developer focused on building high-performance systems and interactive experiences. My work ranges from high-level web applications to low-level engine development.
+I am a software developer driven by a passion for **strategic logic** and **high-performance engineering**. I enjoy breaking down complex problems into simple, efficient, and readable code.
 
-- 🦀 **Currently Engineering:** A **Chess Engine in Rust** using **NNUE** (Efficiently Updatable Neural Networks).
-- 🐍 **Python Expert:** Building scalable backends and automation tools.
+- 🏗️ **Core Interests:** My work spans from high-level application development in **Python** to low-level system optimization in **Rust**.
+- ♟️ **Engine Crafting:** I have a deep interest in **Chess Engine** architecture, exploring both traditional algorithms and modern **NNUE** evaluations.
+- 🛠️ **Philosophy:** I believe that **simplicity is the ultimate sophistication**. I strive to write clean, maintainable code that prioritizes human readability without sacrificing performance.
+- 🎯 **Continuous Growth:** Always exploring new technologies and contributing to the open-source community.
+- 
 ---
-
 ### 🛠️ Tech Stack
 
 | Category | Tools & Languages |
