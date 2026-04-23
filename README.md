@@ -19,7 +19,7 @@ I am a software developer driven by a passion for **strategic logic** and **high
 - ♟️ **Engine Crafting:** I have a deep interest in **Chess Engine** architecture, exploring both traditional algorithms and modern **NNUE** evaluations.
 - 🛠️ **Philosophy:** I believe that **simplicity is the ultimate sophistication**. I strive to write clean, maintainable code that prioritizes human readability without sacrificing performance.
 - 🎯 **Continuous Growth:** Always exploring new technologies and contributing to the open-source community.
-- 
+
 ---
 ### 🛠️ Tech Stack
 
