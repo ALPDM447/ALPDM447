@@ -35,18 +35,6 @@ I am a software developer focused on building high-performance systems and inter
 
 ---
 
-### 📈 Stats & Trophies
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alpdm447&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alpdm447&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alpdm447&theme=tokyonight&margin-w=15&no-bg=true" alt="Trophies" />
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alpdm447&color=58A6FF&label=PROFILE+VIEWS&style=flat-square" />
