@@ -18,9 +18,6 @@ I am a software developer focused on building high-performance systems and inter
 
 - 🦀 **Currently Engineering:** A **Chess Engine in Rust** using **NNUE** (Efficiently Updatable Neural Networks).
 - 🐍 **Python Expert:** Building scalable backends and automation tools.
-- 🎮 **Game Dev:** Crafting experiences in **Unity** and learning advanced **C#**.
-- 🛠️ **Hardware:** Tinkering with **Arduino** and embedded systems (currently mastering LCD interfaces).
-
 ---
 
 ### 🛠️ Tech Stack
