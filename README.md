@@ -1,25 +1,47 @@
-<h1 align="center">Hi 👋, I'm Alp Dumlupınar</h1>
-<h3 align="center">A passionate python developer from Türkiye</h3>
+# ⚡ Hello, I'm Alp Dumlupınar! 
+### 🐍 Python Developer | 🎮 Game Dev Enthusiast | 🇹🇷 Türkiye
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alpdm447" alt="alpdm447" /></a> </p>
-
-- 🔭 I’m currently working on **python and unity.**
-
-- 🌱 I’m currently learning **c#.**
-
-- 🤝 I’m looking for help with **python.**
-
-- 📫 How to reach me **alp1907447@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alpdm447&show_icons=true&theme=tokyonight" alt="Alp's GitHub Stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alpdm447&show_icons=true&locale=en&layout=compact" alt="alpdm447" /></p>
+### 🚀 About Me
+I'm a developer who loves crafting code with Python and diving into the universe of game development with Unity. Currently, I'm sharpening my skills in C# to build deeper game mechanics.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alpdm447&show_icons=true&locale=en" alt="alpdm447" /></p>
+* ** telescope🔭 Currently working on:** Python projects and Unity game development.
+* **🌱 Learning:** Deep diving into C# and game architecture.
+* **🤝 Collaboration:** Open to any Python-related projects or brainstorming sessions!
+* **📫 Reach me at:** [alp1907447@gmail.com](mailto:alp1907447@gmail.com)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alpdm447&" alt="alpdm447" /></p>
+---
+
+### 🛠️ Skills & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alpdm447&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alpdm447&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alpdm447&theme=tokyonight&margin-w=15" alt="alpdm447 Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alpdm447&color=blue&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
